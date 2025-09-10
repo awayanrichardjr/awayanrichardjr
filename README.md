@@ -18,26 +18,27 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=awayanrichardjr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=awayanrichardjr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" 
+  height="180" 
+  alt="GitHub Stats" 
+/>
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=awayanrichardjr&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
+<!-- Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=awayanrichardjr&theme=tokyonight&hide_border=true&v=2" 
+  height="180" 
+  alt="GitHub Streak" 
+/>
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awayanrichardjr&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180" 
-    alt="Top Languages" 
-  />
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awayanrichardjr&layout=compact&theme=tokyonight&hide_border=true&v=2" 
+  height="180" 
+  alt="Top Languages" 
+/>
+
 
 </div>
 
