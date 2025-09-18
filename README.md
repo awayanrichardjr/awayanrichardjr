@@ -15,6 +15,11 @@
 <img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
 </p>
 
+## New to:
+<p>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+</p>
 
 
 <!--
