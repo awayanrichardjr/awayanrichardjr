@@ -21,6 +21,9 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
+## My Portfolio: On Progress!
+[Hardric portfolio site](https://hardric-portfolio-react-project.vercel.app/)
+
 
 <!--
 **awayanrichardjr/awayanrichardjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
