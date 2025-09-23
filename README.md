@@ -23,7 +23,7 @@
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
-## My Portfolio: On Progress!
+## My Portfolio:
 [Hardric portfolio site](https://hardric-portfolio-react-project.vercel.app/)
 
 
